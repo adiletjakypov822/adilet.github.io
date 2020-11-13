@@ -3,8 +3,9 @@
 This project has been done as midterm assignment at Ala Too International University.
 The project is done using JavaFx and should be used as a simple School Management System.
 
+![](https://github.com/adiletjakypov822/adilet.github.io/blob/main/uni_logo.png)
 
-Previews
+The Full Screen Application Previews
 
 ![](https://github.com/adiletjakypov822/adilet.github.io/blob/main/screenshots/sc1.PNG)
 
