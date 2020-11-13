@@ -1,8 +1,7 @@
 # School Management System JavaFX
 Previews
 
-![](https://github.com/k33ptoo/School-Management-System-JavaFX/blob/master/screenshots/sc1.PNG) 
-
+<img src="blob/master/screenshots/sc1.PNG">
 ![](https://github.com/k33ptoo/School-Management-System-JavaFX/blob/master/screenshots/sc2.PNG)
 
 ![](https://github.com/k33ptoo/School-Management-System-JavaFX/blob/master/screenshots/sc3.PNG) 
