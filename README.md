@@ -1,6 +1,8 @@
 # School Management System JavaFX
 
 This project has been done as midterm assignment at Ala Too International University.
+The project is done using JavaFx and should be used as a simple School Management System.
+
 
 Previews
 
